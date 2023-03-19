@@ -1,0 +1,81 @@
+,Acquistion or Disposition,Transaction Date,Deemed Execution Date,Reporting Owner,Form,Transaction Type,Direct or Indirect Ownership,Number of Securities Transacted,Number of Securities Owned,Line Number,Owner CIK,Security Name,doc link
+0,D,2023-03-08,,Musk Elon,4,M-Exempt,--D,5250.0000,0.0000,4,0001494730,Non-Qualifed Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008179/0000899243-23-008179-index.htm
+1,D,2023-03-08,,Musk Elon,4,M-Exempt,--D,5250.0000,0.0000,3,0001494730,Non-Qualifed Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008179/0000899243-23-008179-index.htm
+2,A,2023-03-08,,Musk Elon,4,M-Exempt,--I,5250.0000,411062076.0000,2,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008179/0000899243-23-008179-index.htm
+3,A,2023-03-08,,Musk Elon,4,M-Exempt,--I,5250.0000,411056826.0000,1,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008179/0000899243-23-008179-index.htm
+4,D,2023-03-06,,Baglino Andrew D,4,S-Sale,--D,1298.5000,65546.7500,2,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000003/0001790565-23-000003-index.htm
+5,D,2023-03-06,,Kirkhorn Zachary,4,S-Sale,--D,3749.2500,203073.0000,5,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+6,D,2023-03-06,,Kirkhorn Zachary,4,S-Sale,--D,6706.0000,206822.2500,4,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+7,D,2023-03-06,,Taneja Vaibhav,4,S-Sale,--D,2465.5000,100457.5000,3,0001771340,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177134023000001/0001771340-23-000001-index.htm
+8,D,2023-03-05,,Baglino Andrew D,4,M-Exempt,--D,2586.0000,7758.0000,3,0001790565,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000003/0001790565-23-000003-index.htm
+9,A,2023-03-05,,Baglino Andrew D,4,M-Exempt,--D,2586.0000,66845.2500,1,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000003/0001790565-23-000003-index.htm
+10,D,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,13500.0000,8,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+11,D,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,2722.0000,8168.0000,7,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+12,D,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,645.0000,1944.0000,6,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+13,A,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,213528.2500,3,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+14,A,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,2722.0000,200028.2500,2,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+15,A,2023-03-05,,Kirkhorn Zachary,4,M-Exempt,--D,645.0000,197306.2500,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000004/0001771364-23-000004-index.htm
+16,D,2023-03-05,,Taneja Vaibhav,4,M-Exempt,--D,6750.0000,6750.0000,5,0001771340,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177134023000001/0001771340-23-000001-index.htm
+17,D,2023-03-05,,Taneja Vaibhav,4,M-Exempt,--D,388.0000,1164.0000,4,0001771340,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177134023000001/0001771340-23-000001-index.htm
+18,A,2023-03-05,,Taneja Vaibhav,4,M-Exempt,--D,388.0000,102923.0000,2,0001771340,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177134023000001/0001771340-23-000001-index.htm
+19,A,2023-03-05,,Taneja Vaibhav,4,M-Exempt,--D,6750.0000,102535.0000,1,0001771340,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177134023000001/0001771340-23-000001-index.htm
+20,D,2023-02-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,38190.0000,3,0001790565,Non-Qualified Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000002/0001790565-23-000002-index.htm
+21,D,2023-02-27,,Baglino Andrew D,4,S-Sale,--D,10500.0000,64259.2500,2,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000002/0001790565-23-000002-index.htm
+22,A,2023-02-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,74759.2500,1,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000002/0001790565-23-000002-index.htm
+23,D,2023-02-06,,Kirkhorn Zachary,4,S-Sale,--D,3750.0000,196661.2500,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000003/0001771364-23-000003-index.htm
+24,D,2023-01-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,48690.0000,3,0001790565,Non-Qualified Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000001/0001790565-23-000001-index.htm
+25,D,2023-01-27,,Baglino Andrew D,4,S-Sale,--D,10500.0000,64259.2500,2,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000001/0001790565-23-000001-index.htm
+26,A,2023-01-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,74759.2500,1,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056523000001/0001790565-23-000001-index.htm
+27,D,2023-01-04,,Kirkhorn Zachary,4,S-Sale,--D,3752.2500,200411.2500,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000002/0001771364-23-000002-index.htm
+28,D,2022-12-28,,Kirkhorn Zachary,4/A,M-Exempt,--D,13350.0000,5415.0000,2,0001771364,Incentive Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000001/0001771364-23-000001-index.htm
+29,A,2022-12-28,,Kirkhorn Zachary,4/A,M-Exempt,--D,13350.0000,204163.5000,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136423000001/0001771364-23-000001-index.htm
+30,D,2022-12-28,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,5265.0000,2,0001771364,Incentive Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000011/0001771364-22-000011-index.htm
+31,A,2022-12-28,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,204313.5000,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000011/0001771364-22-000011-index.htm
+32,D,2022-12-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,59190.0000,3,0001790565,Non-Qualified Stock Option (right to buy),https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000017/0001790565-22-000017-index.htm
+33,D,2022-12-27,,Baglino Andrew D,4,S-Sale,--D,10500.0000,64259.2500,2,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000017/0001790565-22-000017-index.htm
+34,A,2022-12-27,,Baglino Andrew D,4,M-Exempt,--D,10500.0000,74759.2500,1,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000017/0001790565-22-000017-index.htm
+35,D,2022-12-27,,Musk Elon,5/A,G-Gift,--I,2100000.0000,411051576.0000,7,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008177/0000899243-23-008177-index.htm
+36,D,2022-12-27,,Musk Elon,5,G-Gift,--I,2100000.0000,412051833.0000,7,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323004992/0000899243-23-004992-index.htm
+37,D,2022-12-21,,Musk Elon,5/A,G-Gift,--I,5000000.0000,413151576.0000,6,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323008177/0000899243-23-008177-index.htm
+38,D,2022-12-21,,Musk Elon,5,G-Gift,--I,5000000.0000,414151833.0000,6,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924323004992/0000899243-23-004992-index.htm
+39,D,2022-12-14,,Musk Elon,4,S-Sale,--I,47432.0000,423622432.0000,29,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+40,D,2022-12-14,,Musk Elon,4,S-Sale,--I,568261.0000,423669864.0000,28,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+41,D,2022-12-14,,Musk Elon,4,S-Sale,--I,1309003.0000,424238125.0000,27,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+42,D,2022-12-14,,Musk Elon,4,S-Sale,--I,1391103.0000,425547128.0000,26,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+43,D,2022-12-14,,Musk Elon,4,S-Sale,--I,1157065.0000,426938231.0000,25,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+44,D,2022-12-14,,Musk Elon,4,S-Sale,--I,1782089.0000,428095296.0000,24,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+45,D,2022-12-14,,Musk Elon,4,S-Sale,--I,615047.0000,429877385.0000,23,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+46,D,2022-12-13,,Musk Elon,4,S-Sale,--I,45545.0000,430492432.0000,22,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+47,D,2022-12-13,,Musk Elon,4,S-Sale,--I,135704.0000,430537977.0000,21,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+48,D,2022-12-13,,Musk Elon,4,S-Sale,--I,720996.0000,430673681.0000,20,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+49,D,2022-12-13,,Musk Elon,4,S-Sale,--I,378017.0000,431394677.0000,19,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+50,D,2022-12-13,,Musk Elon,4,S-Sale,--I,540935.0000,431772694.0000,18,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+51,D,2022-12-13,,Musk Elon,4,S-Sale,--I,148750.0000,432313629.0000,17,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+52,D,2022-12-13,,Musk Elon,4,S-Sale,--I,129795.0000,432462379.0000,16,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+53,D,2022-12-13,,Musk Elon,4,S-Sale,--I,240269.0000,432592174.0000,15,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+54,D,2022-12-13,,Musk Elon,4,S-Sale,--I,473518.0000,432832443.0000,14,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+55,D,2022-12-13,,Musk Elon,4,S-Sale,--I,380964.0000,433305961.0000,13,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+56,D,2022-12-13,,Musk Elon,4,S-Sale,--I,89471.0000,433686925.0000,12,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+57,D,2022-12-13,,Musk Elon,4,S-Sale,--I,234591.0000,433776396.0000,11,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+58,D,2022-12-13,,Musk Elon,4,S-Sale,--I,466672.0000,434010987.0000,10,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+59,D,2022-12-13,,Musk Elon,4,S-Sale,--I,2208110.0000,434477659.0000,9,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+60,D,2022-12-13,,Musk Elon,4,S-Sale,--I,1868138.0000,436685769.0000,8,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+61,D,2022-12-13,,Musk Elon,4,S-Sale,--I,2294072.0000,438553907.0000,7,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+62,D,2022-12-13,,Musk Elon,4,S-Sale,--I,702969.0000,440847979.0000,6,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+63,D,2022-12-13,,Musk Elon,4,S-Sale,--I,626066.0000,441550948.0000,5,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+64,D,2022-12-13,,Musk Elon,4,S-Sale,--I,235418.0000,442177014.0000,4,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+65,D,2022-12-12,,Musk Elon,4,S-Sale,--I,363749.0000,442412432.0000,3,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+66,D,2022-12-12,,Musk Elon,4,S-Sale,--I,1020447.0000,442776181.0000,2,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+67,D,2022-12-12,,Musk Elon,4,S-Sale,--I,1820804.0000,443796628.0000,1,0001494730,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000089924322038522/0000899243-22-038522-index.htm
+68,D,2022-12-06,,Baglino Andrew D,4,S-Sale,--D,1312.2500,64259.2500,2,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000016/0001790565-22-000016-index.htm
+69,D,2022-12-06,,Kirkhorn Zachary,4,S-Sale,--D,7583.7500,190813.5000,5,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+70,D,2022-12-06,,Taneja Vaibhav,4,S-Sale,--D,3767.7500,95785.0000,4,0001771340,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177134022000012/0001771340-22-000012-index.htm
+71,D,2022-12-05,,Baglino Andrew D,4,M-Exempt,--D,2583.0000,10344.0000,3,0001790565,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000016/0001790565-22-000016-index.htm
+72,A,2022-12-05,,Baglino Andrew D,4,M-Exempt,--D,2583.0000,65571.5000,1,0001790565,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000179056522000016/0001790565-22-000016-index.htm
+73,D,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,27000.0000,8,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+74,D,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,2723.0000,10890.0000,7,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+75,D,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,648.0000,2589.0000,6,0001771364,Restricted Stock Unit,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+76,A,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,13500.0000,198397.2500,4,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+77,A,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,2723.0000,184897.2500,3,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+78,A,2022-12-05,,Kirkhorn Zachary,4,M-Exempt,--D,648.0000,182174.2500,2,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
+79,D,2022-12-05,,Kirkhorn Zachary,4,S-Sale,--D,3750.0000,181526.2500,1,0001771364,Common Stock,https://www.sec.gov/Archives/edgar/data/0001318605/000177136422000010/0001771364-22-000010-index.htm
