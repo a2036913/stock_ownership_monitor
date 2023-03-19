@@ -20,8 +20,8 @@ def start():
     'lastest_txn_date': '',
     'dataframe': math.nan
     }
-    CIK = row[2]
-    print("\nprocessing ", CIK)
+    CIK = row[1]
+    print("\n  processing ", CIK)
     last_txn_date = row[2]
     no_of_txn = row[3]
     

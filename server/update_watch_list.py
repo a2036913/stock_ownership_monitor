@@ -20,5 +20,5 @@ def update_watch_list(CIK, result):
       df.at[index, 'txn date'] = last_txn_date
       df.at[index, 'number of txn'] = no_of_txn
       df.at[index, 'program update date'] = today
-  df.to_csv('./data/watch_list.csv')
+  df.to_csv(WATCH_LIST, index=False)
   print("update_watch_list ends")
