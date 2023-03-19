@@ -1,3 +1,4 @@
+import math
 import numpy as np
 import requests
 from bs4 import BeautifulSoup as bs
@@ -5,7 +6,13 @@ import pandas as pd
 
 def crawl(CIK, last_no_of_txn, last_txn_date):
   data = []
-  result = {}
+  result = {
+  'update': False,
+  'stock_name': '',
+  'latest_no_of_txn': '',
+  'lastest_txn_date': '',
+  'dataframe': math.nan
+  }
   latest_no_of_txn = 0
   
   # URL

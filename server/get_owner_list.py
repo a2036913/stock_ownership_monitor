@@ -13,9 +13,6 @@ def get_owner_list(CIK):
   soup = bs(html_content, 'html.parser')
   # get table
   tables = soup.find_all('table')
-  # file = open('./data/test.txt','w')
-  # file.write(tables[6].text.strip())
-  # file.close()
   
   info_row = tables[3].find_all('td')[0]
   stock_name = info_row.find('b').text.strip().split("(")[0]
